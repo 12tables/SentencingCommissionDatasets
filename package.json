@@ -1,5 +1,5 @@
 {
-  "name": "SentencingCommissionDatasets",
+  "name": "@12tables/SentencingCommissionDatasets",
   "version": "1.0.0",
   "description": "USSC Datasets",
   "main": "bin/index.js",
